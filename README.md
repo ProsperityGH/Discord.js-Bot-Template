@@ -1,6 +1,7 @@
 # Discord.js-Bot-Template
 This is a very simple template for making bots using Discord.js/Node.js
 ---
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 # Tutorial:
 
 To begin, Install [Node.js](https://nodejs.org/en/) here.
